@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1588029032 source:c:\users\johne\desktop\c++\projecto 2\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<linked.h>
+	<cmath>
+	<fstream>
+
+1574578343 c:\users\johne\desktop\c++\projecto 2\include\linked.h
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+
+1574578343 source:c:\users\johne\desktop\c++\projecto 2\src\linked.cpp
+	"linked.h"
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+
+1588021947 source:c:\users\johne\onedrive\desktop\c++\projecto 2\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<linked.h>
+	<cmath>
+	<fstream>
+
+1574574743 c:\users\johne\onedrive\desktop\c++\projecto 2\include\linked.h
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+
+1574574743 source:c:\users\johne\onedrive\desktop\c++\projecto 2\src\linked.cpp
+	"linked.h"
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+
